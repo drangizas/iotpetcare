@@ -19,8 +19,8 @@ int blinkMode;
 Servo serv;
 
 // Wi-Fi duomenys
-const char* ssid = "OK";
-const char* pswd = "10eurmen";
+const char* ssid = "";
+const char* pswd = "";
 
 // Web prieiga
 AsyncWebServer server(80);
@@ -81,7 +81,7 @@ void httpRoutes()
     Serial.print("Prisijungimas is IP: ");
     Serial.println(request->client()->remoteIP());
     
-    if(!request->authenticate("user", "password"))
+    if(!request->authenticate("", ""))
     {
       request->send(401, "text/plain", "Autorizacija nepavyko");
       info_led_blink();
