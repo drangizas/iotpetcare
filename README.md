@@ -1,15 +1,11 @@
-# iotpetcare
+# IŠMANUS AUGINTINIO MAITINIMAS
 
-Project name: IOT Pet Care device using Arduinp
+PROJEKTO PAVADINIMAS: Išmanus augintinio maitinimas naudojant esp32 mikrokontrolerį.
 
-Description: Device that can take photos of selected area or give your pet (i.e. dog) some snacks every <x> minutes or whenever you decide to!
+APRAŠYMAS: prietaisas, kuris gali teikti konkrečios vietos nuotraukas arba pamaitinti jūsų augintinį nustatytu intervalu ar konkrečiu momentu!
   
-Installation: Installation is the next section in an effective README. Tell other users how to install your project locally. Optionally, include a gif to make the process even more clear for other people.
+INSTALIACIJA: prietaisas prisukamas prie sienos norimoje vietoje ir prijungiamas prie baterijos šaltinio.
 
-Usage: The next section is usage, in which you instruct other people on how to use your project after they’ve installed it. This would also be a good place to include screenshots of your project in action.
+NAUDOJIMAS: prietaisu naudotis labai paprasta, tereikia turėti programėlę telefone, kurios pagalba galima kontroliuoti šią sistemą. 
 
-Contributing: Larger projects often have sections on contributing to their project, in which contribution instructions are outlined. Sometimes, this is a separate file. If you have specific contribution preferences, explain them so that other developers know how to best contribute to your work. To learn more about how to help others contribute, check out the guide for setting guidelines for repository contributors.
-
-Credits: Include a section for credits in order to highlight and link to the authors of your project.
-
-License: Finally, include a section for the license of your project. For more information on choosing a license, check out GitHub’s licensing guide!
+KREDITAI: Žydrūnas Dranginis, Paulius Gužas, Aivaras Briedis, Paulius Vaitulionis - IFIN-7/3 studentai
