@@ -34,7 +34,8 @@ void setup()
   // Apatinis ledas  
   pinMode(led_info, OUTPUT);
   blinkMode = HIGH;
-
+  digitalWrite(led_info, blinkMode);
+  
   // Servas
   serv.attach(servo_pin);
 
