@@ -1,1 +1,0 @@
-Kol kas neuzpildyta
